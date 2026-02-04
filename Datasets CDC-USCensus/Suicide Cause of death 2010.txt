@@ -1,0 +1,919 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Baldwin County, AL"	"01003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	79150	29.1
+	"Blount County, AL"	"01009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	27621	Unreliable
+	"Coffee County, AL"	"01031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	19664	Unreliable
+	"Jefferson County, AL"	"01073"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	187277	Unreliable
+	"Jefferson County, AL"	"01073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	45	177375	25.4
+	"Lauderdale County, AL"	"01077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	39361	Unreliable
+	"Lee County, AL"	"01081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	51439	Unreliable
+	"Madison County, AL"	"01089"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	119350	Unreliable
+	"Madison County, AL"	"01089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	118959	30.3
+	"Mobile County, AL"	"01097"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	129813	Unreliable
+	"Mobile County, AL"	"01097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	124956	28.0
+	"Montgomery County, AL"	"01101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	47075	Unreliable
+	"Morgan County, AL"	"01103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	50501	Unreliable
+	"St. Clair County, AL"	"01115"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	37364	Unreliable
+	"Shelby County, AL"	"01117"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	83058	37.3
+	"Tuscaloosa County, AL"	"01125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	65890	Unreliable
+	"Walker County, AL"	"01127"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	30370	Unreliable
+	"Anchorage Borough, AK"	"02020"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	100889	Unreliable
+	"Anchorage Borough, AK"	"02020"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	33	107934	30.6
+	"Matanuska-Susitna Borough, AK"	"02170"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	41255	Unreliable
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	21	26204	80.1
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	60228	38.2
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	45742	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	116	1673677	6.9
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	11	115842	Unreliable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	419	1641174	25.5
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	94064	Unreliable
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	94345	46.6
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	23339	Unreliable
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	29294	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	437978	5.7
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	143	420860	34.0
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	153391	Unreliable
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	51	164420	31.0
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	102850	Unreliable
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	98810	44.5
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	90910	Unreliable
+	"Baxter County, AR"	"05005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	19751	Unreliable
+	"Benton County, AR"	"05007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	100910	22.8
+	"Craighead County, AR"	"05031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	40053	Unreliable
+	"Faulkner County, AR"	"05045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	48695	Unreliable
+	"Garland County, AR"	"05051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	41773	Unreliable
+	"Lonoke County, AR"	"05085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	31100	Unreliable
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	119019	Unreliable
+	"Pulaski County, AR"	"05119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	45	114854	39.2
+	"Sebastian County, AR"	"05131"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	52737	Unreliable
+	"Washington County, AR"	"05143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	91318	Unreliable
+	"Alameda County, CA"	"06001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	416083	Unreliable
+	"Alameda County, CA"	"06001"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	19	211159	Unreliable
+	"Alameda County, CA"	"06001"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	100934	Unreliable
+	"Alameda County, CA"	"06001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	89	417290	21.3
+	"Amador County, CA"	"06005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	18806	Unreliable
+	"Butte County, CA"	"06007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	45	97515	46.1
+	"Contra Costa County, CA"	"06013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	35	377905	9.3
+	"Contra Costa County, CA"	"06013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	78	369049	21.1
+	"El Dorado County, CA"	"06017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	84190	40.4
+	"Fresno County, CA"	"06019"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	368224	Unreliable
+	"Fresno County, CA"	"06019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	40	368207	10.9
+	"Humboldt County, CA"	"06023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	59382	43.8
+	"Kern County, CA"	"06029"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	20	344297	5.8
+	"Kern County, CA"	"06029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	59	366371	16.1
+	"Lake County, CA"	"06033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	29390	Unreliable
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	30	789365	3.8
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	10	513727	Unreliable
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	118	3592325	3.3
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	84	701348	12.0
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	47	457003	10.3
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	516	3595144	14.4
+	"Madera County, CA"	"06039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	64590	Unreliable
+	"Marin County, CA"	"06041"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	113771	Unreliable
+	"Marin County, CA"	"06041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	109287	31.1
+	"Mendocino County, CA"	"06045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	39304	Unreliable
+	"Merced County, CA"	"06047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	107500	Unreliable
+	"Monterey County, CA"	"06053"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	170301	Unreliable
+	"Monterey County, CA"	"06053"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	179919	17.8
+	"Napa County, CA"	"06055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	59941	Unreliable
+	"Nevada County, CA"	"06057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	46955	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	12	305152	Unreliable
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	58	1163832	5.0
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	25	279153	9.0
+	"Orange County, CA"	"06059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	183	1154476	15.9
+	"Placer County, CA"	"06061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	42	152638	27.5
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	35	907888	3.9
+	"Riverside County, CA"	"06065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	144	905329	15.9
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	52	492672	10.6
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	14	117670	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	86672	Unreliable
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	113	476412	23.7
+	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	47	807942	5.8
+	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	103353	Unreliable
+	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	142	808392	17.6
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	70	1215400	5.8
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	19	188060	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	102424	Unreliable
+	"San Diego County, CA"	"06073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	250	1237941	20.2
+	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	10	152499	Unreliable
+	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	17	132775	Unreliable
+	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	52	241853	21.5
+	"San Joaquin County, CA"	"06077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	43	243700	17.6
+	"San Luis Obispo County, CA"	"06079"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	122133	Unreliable
+	"San Luis Obispo County, CA"	"06079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	39	124851	31.2
+	"San Mateo County, CA"	"06081"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	240012	Unreliable
+	"San Mateo County, CA"	"06081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	239007	18.4
+	"Santa Barbara County, CA"	"06083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	187873	18.1
+	"Santa Clara County, CA"	"06085"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	24	532299	4.5
+	"Santa Clara County, CA"	"06085"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	23	298889	7.7
+	"Santa Clara County, CA"	"06085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	90	549707	16.4
+	"Santa Cruz County, CA"	"06087"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	118660	Unreliable
+	"Santa Cruz County, CA"	"06087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	118474	21.9
+	"Shasta County, CA"	"06089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	79733	43.9
+	"Solano County, CA"	"06095"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	129084	Unreliable
+	"Solano County, CA"	"06095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	37	131796	28.1
+	"Sonoma County, CA"	"06097"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	23	221509	10.4
+	"Sonoma County, CA"	"06097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	50	214278	23.3
+	"Stanislaus County, CA"	"06099"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	225534	Unreliable
+	"Stanislaus County, CA"	"06099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	220548	14.5
+	"Tulare County, CA"	"06107"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	37	199251	18.6
+	"Ventura County, CA"	"06111"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	28	359932	7.8
+	"Ventura County, CA"	"06111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	56	357841	15.6
+	"Yolo County, CA"	"06113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	77546	Unreliable
+	"Adams County, CO"	"08001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	195761	Unreliable
+	"Adams County, CO"	"08001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	37	197905	18.7
+	"Arapahoe County, CO"	"08005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	56	227348	24.6
+	"Boulder County, CO"	"08013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	136364	Unreliable
+	"Boulder County, CO"	"08013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	49	137622	35.6
+	"Broomfield County, CO"	"08014"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	25197	Unreliable
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	19	244355	Unreliable
+	"Denver County, CO"	"08031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	70	246807	28.4
+	"Douglas County, CO"	"08035"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	134419	Unreliable
+	"Douglas County, CO"	"08035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	132160	16.6
+	"El Paso County, CO"	"08041"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	269977	9.3
+	"El Paso County, CO"	"08041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	80	268964	29.7
+	"Jefferson County, CO"	"08059"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	32	252975	12.6
+	"Jefferson County, CO"	"08059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	78	249104	31.3
+	"Larimer County, CO"	"08069"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	143744	Unreliable
+	"Larimer County, CO"	"08069"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	141451	24.0
+	"Mesa County, CO"	"08077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	69905	37.2
+	"Pueblo County, CO"	"08101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	72161	31.9
+	"Teller County, CO"	"08119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	11539	Unreliable
+	"Weld County, CO"	"08123"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	120406	Unreliable
+	"Weld County, CO"	"08123"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	119770	23.4
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	384512	Unreliable
+	"Fairfield County, CT"	"09001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	45	368875	12.2
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	367033	Unreliable
+	"Hartford County, CT"	"09003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	68	343648	19.8
+	"Litchfield County, CT"	"09005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	89615	23.4
+	"Middlesex County, CT"	"09007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	74114	Unreliable
+	"New Haven County, CT"	"09009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	51	337914	15.1
+	"New London County, CT"	"09011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	117785	24.6
+	"Tolland County, CT"	"09013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	70406	Unreliable
+	"Windham County, CT"	"09015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	55252	Unreliable
+	"Kent County, DE"	"10001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	56054	Unreliable
+	"New Castle County, DE"	"10003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	192138	Unreliable
+	"New Castle County, DE"	"10003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	183199	20.7
+	"Sussex County, DE"	"10005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	80320	37.4
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	14	144418	Unreliable
+	"District of Columbia, DC"	"11001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	127362	Unreliable
+	"Alachua County, FL"	"12001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	87671	24.0
+	"Bay County, FL"	"12005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	72155	Unreliable
+	"Bay County, FL"	"12005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	71578	29.3
+	"Brevard County, FL"	"12009"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	24	237254	10.1
+	"Brevard County, FL"	"12009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	81	229930	35.2
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	53	601432	8.8
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	19	228151	Unreliable
+	"Broward County, FL"	"12011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	183	582730	31.4
+	"Charlotte County, FL"	"12015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	71520	36.4
+	"Citrus County, FL"	"12017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	64847	52.4
+	"Clay County, FL"	"12019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	27	80077	33.7
+	"Collier County, FL"	"12021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	144237	30.5
+	"Duval County, FL"	"12031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	42	279562	15.0
+	"Duval County, FL"	"12031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	65	273663	23.8
+	"Escambia County, FL"	"12033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	107100	26.1
+	"Flagler County, FL"	"12035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	39262	Unreliable
+	"Hernando County, FL"	"12053"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	83370	Unreliable
+	"Hernando County, FL"	"12053"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	76504	Unreliable
+	"Highlands County, FL"	"12055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	42303	Unreliable
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	29	484785	6.0
+	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	102	468623	21.8
+	"Indian River County, FL"	"12061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	59057	Unreliable
+	"Lake County, FL"	"12069"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	132259	Unreliable
+	"Lake County, FL"	"12069"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	42	124661	33.7
+	"Lee County, FL"	"12071"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	24	279069	8.6
+	"Lee County, FL"	"12071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	86	270020	31.8
+	"Leon County, FL"	"12073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	87251	33.2
+	"Levy County, FL"	"12075"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	17934	Unreliable
+	"Manatee County, FL"	"12081"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	146251	Unreliable
+	"Manatee County, FL"	"12081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	37	138019	26.8
+	"Marion County, FL"	"12083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	50	135431	36.9
+	"Martin County, FL"	"12085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	65926	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	37	1001746	3.7
+	"Miami-Dade County, FL"	"12086"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	13	234871	Unreliable
+	"Miami-Dade County, FL"	"12086"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	160	947654	16.9
+	"Monroe County, FL"	"12087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	35973	Unreliable
+	"Nassau County, FL"	"12089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	33231	Unreliable
+	"Okaloosa County, FL"	"12091"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	76046	Unreliable
+	"Okaloosa County, FL"	"12091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	77732	30.9
+	"Orange County, FL"	"12095"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	30	409826	7.3
+	"Orange County, FL"	"12095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	81	406420	19.9
+	"Osceola County, FL"	"12097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	108340	Unreliable
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	41	533402	7.7
+	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	135	501101	26.9
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	219731	Unreliable
+	"Pasco County, FL"	"12101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	78	207773	37.5
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	41	404953	10.1
+	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	136	375870	36.2
+	"Polk County, FL"	"12105"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	250049	Unreliable
+	"Polk County, FL"	"12105"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	51	241559	21.1
+	"Putnam County, FL"	"12107"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	30387	Unreliable
+	"St. Johns County, FL"	"12109"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	89061	Unreliable
+	"St. Johns County, FL"	"12109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	84361	36.7
+	"St. Lucie County, FL"	"12111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	105640	32.2
+	"Santa Rosa County, FL"	"12113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	68687	29.1
+	"Sarasota County, FL"	"12115"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	184419	Unreliable
+	"Sarasota County, FL"	"12115"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	60	168514	35.6
+	"Seminole County, FL"	"12117"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	180488	Unreliable
+	"Seminole County, FL"	"12117"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	170871	25.8
+	"Volusia County, FL"	"12127"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	218255	10.1
+	"Volusia County, FL"	"12127"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	79	209574	37.7
+	"Barrow County, GA"	"13013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	28786	Unreliable
+	"Bartow County, GA"	"13015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	43424	Unreliable
+	"Carroll County, GA"	"13045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	43121	Unreliable
+	"Chatham County, GA"	"13051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	72425	Unreliable
+	"Cherokee County, GA"	"13057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	96754	Unreliable
+	"Cobb County, GA"	"13067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	236212	Unreliable
+	"Cobb County, GA"	"13067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	48	232531	20.6
+	"Coweta County, GA"	"13077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	50274	Unreliable
+	"DeKalb County, GA"	"13089"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	15	177896	Unreliable
+	"DeKalb County, GA"	"13089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	131239	24.4
+	"Forsyth County, GA"	"13117"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	78602	Unreliable
+	"Fulton County, GA"	"13121"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	218387	Unreliable
+	"Fulton County, GA"	"13121"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	22	193619	11.4
+	"Fulton County, GA"	"13121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	52	224519	23.2
+	"Glynn County, GA"	"13127"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	27204	Unreliable
+	"Gwinnett County, GA"	"13135"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	250234	Unreliable
+	"Gwinnett County, GA"	"13135"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	50	253189	19.7
+	"Hall County, GA"	"13139"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	79525	Unreliable
+	"Henry County, GA"	"13151"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	58317	Unreliable
+	"Houston County, GA"	"13153"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	46522	Unreliable
+	"Muscogee County, GA"	"13215"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	46006	Unreliable
+	"Paulding County, GA"	"13223"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	56496	Unreliable
+	"Richmond County, GA"	"13245"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	41988	Unreliable
+	"Troup County, GA"	"13285"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	20892	Unreliable
+	"Walton County, GA"	"13297"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	33802	Unreliable
+	"Hawaii County, HI"	"15001"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	17	52195	Unreliable
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	20	352365	5.7
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	110538	Unreliable
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	53	325388	16.3
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	132853	28.6
+	"Kauai County, HI"	"15007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	13581	Unreliable
+	"Maui County, HI"	"15009"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	14	42607	Unreliable
+	"Maui County, HI"	"15009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	33443	Unreliable
+	"Ada County, ID"	"16001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	185004	Unreliable
+	"Ada County, ID"	"16001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	40	185333	21.6
+	"Bannock County, ID"	"16005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	38459	54.6
+	"Bonner County, ID"	"16017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	20210	Unreliable
+	"Bonneville County, ID"	"16019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	50267	Unreliable
+	"Canyon County, ID"	"16027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	89407	25.7
+	"Kootenai County, ID"	"16055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	66148	36.3
+	"Twin Falls County, ID"	"16083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	36723	Unreliable
+	"Champaign County, IL"	"17019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	77005	Unreliable
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	10	727597	Unreliable
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	72	1747898	4.1
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	10	169280	Unreliable
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	36	607543	5.9
+	"Cook County, IL"	"17031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	260	1713642	15.2
+	"DuPage County, IL"	"17043"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	389888	Unreliable
+	"DuPage County, IL"	"17043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	68	377488	18.0
+	"Kane County, IL"	"17089"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	227801	Unreliable
+	"Kane County, IL"	"17089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	227654	15.8
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	295947	Unreliable
+	"Lake County, IL"	"17097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	49	297688	16.5
+	"McHenry County, IL"	"17111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	33	146699	22.5
+	"McLean County, IL"	"17113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	71310	Unreliable
+	"Madison County, IL"	"17119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	119020	20.2
+	"Peoria County, IL"	"17143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	69672	Unreliable
+	"Rock Island County, IL"	"17161"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	62703	Unreliable
+	"St. Clair County, IL"	"17163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	88466	24.9
+	"Sangamon County, IL"	"17167"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	80742	27.2
+	"Tazewell County, IL"	"17179"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	64746	Unreliable
+	"Will County, IL"	"17197"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	280950	Unreliable
+	"Will County, IL"	"17197"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	279342	13.6
+	"Winnebago County, IL"	"17201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	120750	20.7
+	"Allen County, IN"	"18003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	151226	Unreliable
+	"Allen County, IN"	"18003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	144617	20.7
+	"Bartholomew County, IN"	"18005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	35207	Unreliable
+	"Clark County, IN"	"18019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	48811	Unreliable
+	"Delaware County, IN"	"18035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	51346	Unreliable
+	"Elkhart County, IN"	"18039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	88930	Unreliable
+	"Hamilton County, IN"	"18057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	121388	Unreliable
+	"Hendricks County, IN"	"18063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	66291	Unreliable
+	"Howard County, IN"	"18067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	36004	Unreliable
+	"Lake County, IN"	"18089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	39	173701	22.5
+	"La Porte County, IN"	"18091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	49348	Unreliable
+	"Madison County, IN"	"18095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	58493	34.2
+	"Marion County, IN"	"18097"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	29	316036	9.2
+	"Marion County, IN"	"18097"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	15	117783	Unreliable
+	"Marion County, IN"	"18097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	68	304473	22.3
+	"Monroe County, IN"	"18105"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	62372	Unreliable
+	"Monroe County, IN"	"18105"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	61900	Unreliable
+	"Morgan County, IN"	"18109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	33758	Unreliable
+	"Porter County, IN"	"18127"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	76625	Unreliable
+	"St. Joseph County, IN"	"18141"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	108023	24.1
+	"Tippecanoe County, IN"	"18157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	77239	Unreliable
+	"Vanderburgh County, IN"	"18163"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	82068	Unreliable
+	"Vanderburgh County, IN"	"18163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	76386	39.3
+	"Vigo County, IN"	"18167"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	48198	Unreliable
+	"Black Hawk County, IA"	"19013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	56289	Unreliable
+	"Clinton County, IA"	"19045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	23067	Unreliable
+	"Dubuque County, IA"	"19061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	43891	Unreliable
+	"Johnson County, IA"	"19103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	58015	Unreliable
+	"Linn County, IA"	"19113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	96014	Unreliable
+	"Polk County, IA"	"19153"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	195092	Unreliable
+	"Polk County, IA"	"19153"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	41	186692	22.0
+	"Scott County, IA"	"19163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	71919	Unreliable
+	"Woodbury County, IA"	"19193"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	45666	Unreliable
+	"Douglas County, KS"	"20045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	48499	Unreliable
+	"Johnson County, KS"	"20091"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	250218	Unreliable
+	"Johnson County, KS"	"20091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	59	238315	24.8
+	"Leavenworth County, KS"	"20103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	34283	Unreliable
+	"Sedgwick County, KS"	"20173"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	209148	Unreliable
+	"Sedgwick County, KS"	"20173"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	204465	21.5
+	"Shawnee County, KS"	"20177"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	74142	27.0
+	"Wyandotte County, KS"	"20209"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	53927	Unreliable
+	"Boone County, KY"	"21015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	55403	Unreliable
+	"Boyd County, KY"	"21019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	23256	Unreliable
+	"Bullitt County, KY"	"21029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	36073	Unreliable
+	"Campbell County, KY"	"21037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	42433	Unreliable
+	"Daviess County, KY"	"21059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	43686	Unreliable
+	"Fayette County, KY"	"21067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	117279	22.2
+	"Graves County, KY"	"21083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	17080	Unreliable
+	"Jefferson County, KY"	"21111"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	28	286348	9.8
+	"Jefferson County, KY"	"21111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	70	271995	25.7
+	"Kenton County, KY"	"21117"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	73440	Unreliable
+	"McCracken County, KY"	"21145"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	27406	Unreliable
+	"Marshall County, KY"	"21157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	15361	Unreliable
+	"Pike County, KY"	"21195"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	31418	Unreliable
+	"Bossier Parish, LA"	"22015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	44177	Unreliable
+	"Caddo Parish, LA"	"22017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	62638	Unreliable
+	"Calcasieu Parish, LA"	"22019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	68370	30.7
+	"East Baton Rouge Parish, LA"	"22033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	110219	26.3
+	"Iberia Parish, LA"	"22045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	23282	Unreliable
+	"Jefferson Parish, LA"	"22051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	144605	19.4
+	"Lafayette Parish, LA"	"22055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	78125	Unreliable
+	"Lafourche Parish, LA"	"22057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	39126	Unreliable
+	"Livingston Parish, LA"	"22063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	59455	33.6
+	"Orleans Parish, LA"	"22071"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	98110	Unreliable
+	"Orleans Parish, LA"	"22071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	61789	Unreliable
+	"Ouachita Parish, LA"	"22073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	45737	Unreliable
+	"Rapides Parish, LA"	"22079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	41660	Unreliable
+	"St. Landry Parish, LA"	"22097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	23050	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	98277	31.5
+	"Tangipahoa Parish, LA"	"22105"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	40509	Unreliable
+	"Androscoggin County, ME"	"23001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	49738	Unreliable
+	"Cumberland County, ME"	"23005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	128878	17.8
+	"Kennebec County, ME"	"23011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	58097	Unreliable
+	"Penobscot County, ME"	"23019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	73097	Unreliable
+	"York County, ME"	"23031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	93731	25.6
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	213453	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	11	43200	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	211169	17.0
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	280562	Unreliable
+	"Baltimore County, MD"	"24005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	47	258629	18.2
+	"Carroll County, MD"	"24013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	77792	Unreliable
+	"Frederick County, MD"	"24021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	98378	Unreliable
+	"Harford County, MD"	"24025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	100137	26.0
+	"Howard County, MD"	"24027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	93165	Unreliable
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	325983	Unreliable
+	"Montgomery County, MD"	"24031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	309935	11.0
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	17	269117	Unreliable
+	"Prince George's County, MD"	"24033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	119783	21.7
+	"St. Mary's County, MD"	"24037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	42850	Unreliable
+	"Washington County, MD"	"24043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	63501	Unreliable
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	11	185254	Unreliable
+	"Baltimore city, MD"	"24510"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	97285	37.0
+	"Barnstable County, MA"	"25001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	97677	28.7
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	262098	Unreliable
+	"Bristol County, MA"	"25005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	244828	14.3
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	346341	Unreliable
+	"Essex County, MA"	"25009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	55	318307	17.3
+	"Hampden County, MA"	"25013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	190613	19.9
+	"Hampshire County, MA"	"25015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	67935	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	19	651829	Unreliable
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	95	616078	15.4
+	"Norfolk County, MA"	"25021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	271059	13.3
+	"Plymouth County, MA"	"25023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	42	213090	19.7
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	85213	Unreliable
+	"Suffolk County, MA"	"25025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	228563	14.0
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	366084	Unreliable
+	"Worcester County, MA"	"25027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	47	353063	13.3
+	"Allegan County, MI"	"26005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	53676	Unreliable
+	"Bay County, MI"	"26017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	50788	Unreliable
+	"Berrien County, MI"	"26021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	62455	Unreliable
+	"Calhoun County, MI"	"26025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	56373	Unreliable
+	"Eaton County, MI"	"26045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	47449	Unreliable
+	"Genesee County, MI"	"26049"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	166801	Unreliable
+	"Genesee County, MI"	"26049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	158117	24.0
+	"Ingham County, MI"	"26065"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	115437	Unreliable
+	"Ingham County, MI"	"26065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	109020	Unreliable
+	"Jackson County, MI"	"26075"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	71894	34.8
+	"Kalamazoo County, MI"	"26077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	103652	25.1
+	"Kent County, MI"	"26081"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	261671	Unreliable
+	"Kent County, MI"	"26081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	251763	14.3
+	"Lapeer County, MI"	"26087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	43211	Unreliable
+	"Livingston County, MI"	"26093"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	88682	23.7
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	374154	6.7
+	"Macomb County, MI"	"26099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	86	357624	24.0
+	"Monroe County, MI"	"26115"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	72145	29.1
+	"Muskegon County, MI"	"26121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	70454	Unreliable
+	"Oakland County, MI"	"26125"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	26	484764	5.4
+	"Oakland County, MI"	"26125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	82	467412	17.5
+	"Ottawa County, MI"	"26139"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	122105	18.8
+	"Saginaw County, MI"	"26145"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	75802	29.0
+	"St. Clair County, MI"	"26147"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	77188	31.1
+	"Shiawassee County, MI"	"26155"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	34239	Unreliable
+	"Van Buren County, MI"	"26159"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	35245	Unreliable
+	"Washtenaw County, MI"	"26161"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	131528	22.0
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	12	406953	Unreliable
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	37	506621	7.3
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	44	351362	12.5
+	"Wayne County, MI"	"26163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	100	491730	20.3
+	"Anoka County, MN"	"27003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	39	148240	26.3
+	"Dakota County, MN"	"27037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	173939	17.8
+	"Hennepin County, MN"	"27053"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	32	462294	6.9
+	"Hennepin County, MN"	"27053"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	76	445608	17.1
+	"Olmsted County, MN"	"27109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	62021	Unreliable
+	"Ramsey County, MN"	"27123"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	195229	Unreliable
+	"Ramsey County, MN"	"27123"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	182395	17.0
+	"St. Louis County, MN"	"27137"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	94465	Unreliable
+	"Sherburne County, MN"	"27141"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	42969	Unreliable
+	"Stearns County, MN"	"27145"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	71095	Unreliable
+	"Washington County, MN"	"27163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	105273	Unreliable
+	"Wright County, MN"	"27171"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	60632	Unreliable
+	"DeSoto County, MS"	"28033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	60528	34.7
+	"Harrison County, MS"	"28047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	68858	36.3
+	"Hinds County, MS"	"28049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	34629	Unreliable
+	"Jackson County, MS"	"28059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	52060	Unreliable
+	"Lee County, MS"	"28081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	28550	Unreliable
+	"Rankin County, MS"	"28121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	54349	Unreliable
+	"Buchanan County, MO"	"29021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	40510	Unreliable
+	"Butler County, MO"	"29023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	19051	Unreliable
+	"Cape Girardeau County, MO"	"29031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	33167	Unreliable
+	"Cass County, MO"	"29037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	45803	Unreliable
+	"Clay County, MO"	"29047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	98200	30.5
+	"Franklin County, MO"	"29071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	49287	Unreliable
+	"Greene County, MO"	"29077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	124689	24.1
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	246035	Unreliable
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	78756	Unreliable
+	"Jackson County, MO"	"29095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	63	237359	26.5
+	"Jasper County, MO"	"29097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	53303	Unreliable
+	"Jefferson County, MO"	"29099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	106353	27.3
+	"Lincoln County, MO"	"29113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	25295	Unreliable
+	"St. Charles County, MO"	"29183"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	163739	22.0
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	372546	Unreliable
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	107886	Unreliable
+	"St. Louis County, MO"	"29189"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	90	345104	26.1
+	"St. Louis city, MO"	"29510"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	73711	31.2
+	"Cascade County, MT"	"30013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	37253	Unreliable
+	"Flathead County, MT"	"30029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	44095	45.4
+	"Gallatin County, MT"	"30031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	45079	Unreliable
+	"Missoula County, MT"	"30063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	52046	Unreliable
+	"Yellowstone County, MT"	"30111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	67538	31.1
+	"Douglas County, NE"	"31055"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	217243	Unreliable
+	"Douglas County, NE"	"31055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	210957	17.1
+	"Lancaster County, NE"	"31109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	128919	Unreliable
+	"Sarpy County, NE"	"31153"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	72400	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	75	724964	10.3
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	10	95653	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	13	117927	Unreliable
+	"Clark County, NV"	"32003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	269	755244	35.6
+	"Nye County, NV"	"32023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	20646	Unreliable
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	182806	13.7
+	"Washoe County, NV"	"32031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	64	187807	34.1
+	"Belknap County, NH"	"33001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	28811	Unreliable
+	"Cheshire County, NH"	"33005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	36650	Unreliable
+	"Hillsborough County, NH"	"33011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	189600	Unreliable
+	"Hillsborough County, NH"	"33011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	184582	19.5
+	"Merrimack County, NH"	"33013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	69557	Unreliable
+	"Rockingham County, NH"	"33015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	141402	24.0
+	"Strafford County, NH"	"33017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	57100	Unreliable
+	"Atlantic County, NJ"	"34001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	97917	21.4
+	"Bergen County, NJ"	"34003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	362271	Unreliable
+	"Bergen County, NJ"	"34003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	48	339926	14.1
+	"Burlington County, NJ"	"34005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	168791	15.4
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	189586	Unreliable
+	"Camden County, NJ"	"34007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	45	180545	24.9
+	"Cape May County, NJ"	"34009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	43859	Unreliable
+	"Cumberland County, NJ"	"34011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	58166	Unreliable
+	"Essex County, NJ"	"34013"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	15	157340	Unreliable
+	"Essex County, NJ"	"34013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	196462	12.7
+	"Gloucester County, NJ"	"34015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	120682	Unreliable
+	"Hudson County, NJ"	"34017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	215810	11.1
+	"Hunterdon County, NJ"	"34019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	59454	Unreliable
+	"Mercer County, NJ"	"34021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	122868	20.3
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	271725	8.1
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	261715	9.9
+	"Monmouth County, NJ"	"34025"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	278083	Unreliable
+	"Monmouth County, NJ"	"34025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	33	265276	12.4
+	"Morris County, NJ"	"34027"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	217315	Unreliable
+	"Morris County, NJ"	"34027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	209040	11.0
+	"Ocean County, NJ"	"34029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	46	260074	17.7
+	"Passaic County, NJ"	"34031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	189653	13.7
+	"Somerset County, NJ"	"34035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	118861	Unreliable
+	"Sussex County, NJ"	"34037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	70814	Unreliable
+	"Union County, NJ"	"34039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	185984	11.8
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	35	293997	11.9
+	"Bernalillo County, NM"	"35001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	75	281869	26.6
+	"Chaves County, NM"	"35005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	30415	Unreliable
+	"Dona Ana County, NM"	"35013"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	100217	Unreliable
+	"Dona Ana County, NM"	"35013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	95887	25.0
+	"Eddy County, NM"	"35015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	25400	Unreliable
+	"Lea County, NM"	"35025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	30471	Unreliable
+	"McKinley County, NM"	"35031"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	27068	Unreliable
+	"Otero County, NM"	"35035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	27771	Unreliable
+	"Sandoval County, NM"	"35043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	52114	Unreliable
+	"San Juan County, NM"	"35045"	"2010"	"2010"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	24888	Unreliable
+	"San Juan County, NM"	"35045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	38608	51.8
+	"Santa Fe County, NM"	"35049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	65009	Unreliable
+	"Albany County, NY"	"36001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	118514	17.7
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	334417	Unreliable
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	289539	Unreliable
+	"Bronx County, NY"	"36005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	304890	10.2
+	"Broome County, NY"	"36007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	88122	Unreliable
+	"Cayuga County, NY"	"36011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	37535	Unreliable
+	"Chautauqua County, NY"	"36013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	63190	Unreliable
+	"Dutchess County, NY"	"36027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	124058	24.2
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	389272	5.4
+	"Erie County, NY"	"36029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	74	365372	20.3
+	"Herkimer County, NY"	"36043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	30818	Unreliable
+	"Jefferson County, NY"	"36045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	53520	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	642127	Unreliable
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	28	412483	6.8
+	"Kings County, NY"	"36047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	64	615832	10.4
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	303893	Unreliable
+	"Monroe County, NY"	"36055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	48	286549	16.8
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	542961	Unreliable
+	"Nassau County, NY"	"36059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	66	515160	12.8
+	"New York County, NY"	"36061"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	28	554356	5.1
+	"New York County, NY"	"36061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	58	506367	11.5
+	"Niagara County, NY"	"36063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	94680	Unreliable
+	"Oneida County, NY"	"36065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	103353	Unreliable
+	"Onondaga County, NY"	"36067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	187371	13.3
+	"Ontario County, NY"	"36069"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	50358	Unreliable
+	"Orange County, NY"	"36071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	156834	Unreliable
+	"Oswego County, NY"	"36075"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	59431	Unreliable
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	11	287674	Unreliable
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	581420	3.8
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	23	274047	8.4
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	13	219557	Unreliable
+	"Queens County, NY"	"36081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	82	567856	14.4
+	"Rensselaer County, NY"	"36083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	70389	Unreliable
+	"Richmond County, NY"	"36085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	180687	12.2
+	"Rockland County, NY"	"36087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	122312	Unreliable
+	"St. Lawrence County, NY"	"36089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	53293	Unreliable
+	"Saratoga County, NY"	"36091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	103435	20.3
+	"Steuben County, NY"	"36101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	47183	Unreliable
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	33	659075	5.0
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	60903	Unreliable
+	"Suffolk County, NY"	"36103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	90	640707	14.0
+	"Sullivan County, NY"	"36105"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	33996	Unreliable
+	"Ulster County, NY"	"36111"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	80869	Unreliable
+	"Washington County, NY"	"36115"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	30625	Unreliable
+	"Westchester County, NY"	"36119"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	20	373470	5.4
+	"Westchester County, NY"	"36119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	44	354592	12.4
+	"Wyoming County, NY"	"36121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	20238	Unreliable
+	"Buncombe County, NC"	"37021"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	112645	Unreliable
+	"Buncombe County, NC"	"37021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	104488	28.7
+	"Cabarrus County, NC"	"37025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	70824	Unreliable
+	"Carteret County, NC"	"37031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	30047	Unreliable
+	"Catawba County, NC"	"37035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	65470	33.6
+	"Cleveland County, NC"	"37045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	36994	Unreliable
+	"Craven County, NC"	"37049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	38201	Unreliable
+	"Cumberland County, NC"	"37051"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	88910	Unreliable
+	"Cumberland County, NC"	"37051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	88176	28.4
+	"Davidson County, NC"	"37057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	70841	Unreliable
+	"Durham County, NC"	"37063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	71076	Unreliable
+	"Forsyth County, NC"	"37067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	125412	Unreliable
+	"Forsyth County, NC"	"37067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	116622	26.6
+	"Gaston County, NC"	"37071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	82460	34.0
+	"Guilford County, NC"	"37081"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	153566	Unreliable
+	"Guilford County, NC"	"37081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	144237	16.6
+	"Harnett County, NC"	"37085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	42008	Unreliable
+	"Haywood County, NC"	"37087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	27833	Unreliable
+	"Henderson County, NC"	"37089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	48754	Unreliable
+	"Iredell County, NC"	"37097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	66929	Unreliable
+	"Johnston County, NC"	"37101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	68586	Unreliable
+	"Mecklenburg County, NC"	"37119"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	286831	7.7
+	"Mecklenburg County, NC"	"37119"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	135783	Unreliable
+	"Mecklenburg County, NC"	"37119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	63	281318	22.4
+	"Moore County, NC"	"37125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	35752	Unreliable
+	"New Hanover County, NC"	"37129"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	81439	Unreliable
+	"Onslow County, NC"	"37133"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	76143	28.9
+	"Orange County, NC"	"37135"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	51100	Unreliable
+	"Pitt County, NC"	"37147"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	50519	Unreliable
+	"Randolph County, NC"	"37151"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	63850	Unreliable
+	"Rockingham County, NC"	"37157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	36023	Unreliable
+	"Rowan County, NC"	"37159"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	55712	Unreliable
+	"Stokes County, NC"	"37169"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	21918	Unreliable
+	"Surry County, NC"	"37171"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	33987	Unreliable
+	"Union County, NC"	"37179"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	84823	Unreliable
+	"Wake County, NC"	"37183"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	324926	Unreliable
+	"Wake County, NC"	"37183"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	48	317720	15.1
+	"Wayne County, NC"	"37191"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	39969	Unreliable
+	"Wilkes County, NC"	"37193"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	32276	Unreliable
+	"Cass County, ND"	"38017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	70260	Unreliable
+	"Ashtabula County, OH"	"39007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	47492	Unreliable
+	"Belmont County, OH"	"39013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	32889	Unreliable
+	"Butler County, OH"	"39017"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	166569	Unreliable
+	"Butler County, OH"	"39017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	39	160123	24.4
+	"Champaign County, OH"	"39021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	19038	Unreliable
+	"Clark County, OH"	"39023"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	59507	Unreliable
+	"Clermont County, OH"	"39025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	94497	21.2
+	"Columbiana County, OH"	"39029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	51663	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	436133	5.0
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	16	179556	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	86	407926	21.1
+	"Fairfield County, OH"	"39045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	66305	Unreliable
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	31	429315	7.2
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	124361	Unreliable
+	"Franklin County, OH"	"39049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	98	414702	23.6
+	"Geauga County, OH"	"39055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	44877	Unreliable
+	"Greene County, OH"	"39057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	69994	Unreliable
+	"Hamilton County, OH"	"39061"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	290235	Unreliable
+	"Hamilton County, OH"	"39061"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	98162	Unreliable
+	"Hamilton County, OH"	"39061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	56	276346	20.3
+	"Hancock County, OH"	"39063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	34612	Unreliable
+	"Lake County, OH"	"39085"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	111606	Unreliable
+	"Lake County, OH"	"39085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	106406	19.7
+	"Licking County, OH"	"39089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	77093	Unreliable
+	"Lorain County, OH"	"39093"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	130127	22.3
+	"Lucas County, OH"	"39095"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	174683	Unreliable
+	"Lucas County, OH"	"39095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	39	166142	23.5
+	"Mahoning County, OH"	"39099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	95096	Unreliable
+	"Medina County, OH"	"39103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	82603	Unreliable
+	"Miami County, OH"	"39109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	48156	Unreliable
+	"Montgomery County, OH"	"39113"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	208275	10.1
+	"Montgomery County, OH"	"39113"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	54707	Unreliable
+	"Montgomery County, OH"	"39113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	59	196315	30.1
+	"Muskingum County, OH"	"39119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	39076	Unreliable
+	"Portage County, OH"	"39133"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	73859	Unreliable
+	"Richland County, OH"	"39139"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	54461	Unreliable
+	"Ross County, OH"	"39141"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	36754	Unreliable
+	"Scioto County, OH"	"39145"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	37063	Unreliable
+	"Stark County, OH"	"39151"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	174901	Unreliable
+	"Stark County, OH"	"39151"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	53	163637	32.4
+	"Summit County, OH"	"39153"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	227894	Unreliable
+	"Summit County, OH"	"39153"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	41	216104	19.0
+	"Trumbull County, OH"	"39155"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	92066	38.0
+	"Tuscarawas County, OH"	"39157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	44357	Unreliable
+	"Warren County, OH"	"39165"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	97246	Unreliable
+	"Cleveland County, OK"	"40027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	107962	25.9
+	"Comanche County, OK"	"40031"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	44857	Unreliable
+	"Creek County, OK"	"40037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	29189	Unreliable
+	"Kay County, OK"	"40071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	19510	Unreliable
+	"Le Flore County, OK"	"40079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	20664	Unreliable
+	"Oklahoma County, OK"	"40109"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	271636	Unreliable
+	"Oklahoma County, OK"	"40109"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	77	263833	29.2
+	"Pottawatomie County, OK"	"40125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	26865	Unreliable
+	"Tulsa County, OK"	"40143"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	238865	10.5
+	"Tulsa County, OK"	"40143"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	72	229492	31.4
+	"Clackamas County, OR"	"41005"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	177315	Unreliable
+	"Clackamas County, OR"	"41005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	42	171915	24.4
+	"Columbia County, OR"	"41009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	23731	Unreliable
+	"Coos County, OR"	"41011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	29305	Unreliable
+	"Deschutes County, OR"	"41017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	75454	41.1
+	"Douglas County, OR"	"41019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	50886	Unreliable
+	"Jackson County, OR"	"41029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	27	94079	28.7
+	"Josephine County, OR"	"41033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	38661	Unreliable
+	"Klamath County, OR"	"41035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	30410	Unreliable
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	20	167178	12.0
+	"Lane County, OR"	"41039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	49	161778	30.3
+	"Lincoln County, OR"	"41041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	20836	Unreliable
+	"Linn County, OR"	"41043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	55186	Unreliable
+	"Marion County, OR"	"41047"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	146186	Unreliable
+	"Marion County, OR"	"41047"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	144269	26.3
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	28	308859	9.1
+	"Multnomah County, OR"	"41051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	80	303893	26.3
+	"Umatilla County, OR"	"41059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	36562	Unreliable
+	"Washington County, OR"	"41067"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	230748	Unreliable
+	"Washington County, OR"	"41067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	53	223665	23.7
+	"Yamhill County, OR"	"41071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	46526	Unreliable
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	24	525942	4.6
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	87	487636	17.8
+	"Beaver County, PA"	"42007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	76114	Unreliable
+	"Berks County, PA"	"42011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	190634	Unreliable
+	"Berks County, PA"	"42011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	37	183033	20.2
+	"Bucks County, PA"	"42017"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	20	291023	6.9
+	"Bucks County, PA"	"42017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	64	280791	22.8
+	"Butler County, PA"	"42019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	87975	Unreliable
+	"Cambria County, PA"	"42021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	66809	31.4
+	"Carbon County, PA"	"42025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	31294	Unreliable
+	"Centre County, PA"	"42027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	72026	Unreliable
+	"Chester County, PA"	"42029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	47	217749	21.6
+	"Crawford County, PA"	"42039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	42237	Unreliable
+	"Cumberland County, PA"	"42041"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	111979	Unreliable
+	"Cumberland County, PA"	"42041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	106312	Unreliable
+	"Dauphin County, PA"	"42043"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	99039	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	213566	Unreliable
+	"Delaware County, PA"	"42045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	58	200472	28.9
+	"Erie County, PA"	"42049"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	129512	Unreliable
+	"Erie County, PA"	"42049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	123941	23.4
+	"Fayette County, PA"	"42051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	62647	Unreliable
+	"Franklin County, PA"	"42055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	69060	Unreliable
+	"Huntingdon County, PA"	"42061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	21837	Unreliable
+	"Lackawanna County, PA"	"42069"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	105793	Unreliable
+	"Lackawanna County, PA"	"42069"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	97169	26.8
+	"Lancaster County, PA"	"42071"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	17	246472	Unreliable
+	"Lancaster County, PA"	"42071"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	234554	13.2
+	"Lawrence County, PA"	"42073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	41596	Unreliable
+	"Lebanon County, PA"	"42075"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	61942	Unreliable
+	"Lehigh County, PA"	"42077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	27	147762	18.3
+	"Luzerne County, PA"	"42079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	146350	26.0
+	"Lycoming County, PA"	"42081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	53495	Unreliable
+	"Mercer County, PA"	"42085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	52695	Unreliable
+	"Mifflin County, PA"	"42087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	22476	Unreliable
+	"Montgomery County, PA"	"42091"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	25	344011	7.3
+	"Montgomery County, PA"	"42091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	82	324061	25.3
+	"Northampton County, PA"	"42095"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	27	131717	20.5
+	"Northumberland County, PA"	"42097"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	45147	Unreliable
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	362064	6.1
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	28	317178	8.8
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	84	344698	24.4
+	"Pike County, PA"	"42103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	26382	Unreliable
+	"Schuylkill County, PA"	"42107"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	70953	Unreliable
+	"Washington County, PA"	"42125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	96128	21.8
+	"Westmoreland County, PA"	"42129"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	170539	18.2
+	"York County, PA"	"42133"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	12	201852	Unreliable
+	"York County, PA"	"42133"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	54	196378	27.5
+	"Kent County, RI"	"44003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	76045	30.2
+	"Providence County, RI"	"44007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	61	249411	24.5
+	"Washington County, RI"	"44009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	58780	Unreliable
+	"Aiken County, SC"	"45003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	57290	36.7
+	"Anderson County, SC"	"45007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	74621	37.5
+	"Beaufort County, SC"	"45013"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	63076	Unreliable
+	"Berkeley County, SC"	"45015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	63334	Unreliable
+	"Charleston County, SC"	"45019"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	118888	Unreliable
+	"Charleston County, SC"	"45019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	116786	30.0
+	"Greenville County, SC"	"45045"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	181078	11.6
+	"Greenville County, SC"	"45045"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	47	172546	27.2
+	"Horry County, SC"	"45051"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	110829	19.9
+	"Lexington County, SC"	"45063"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	110316	Unreliable
+	"Lexington County, SC"	"45063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	106513	26.3
+	"Oconee County, SC"	"45073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	33424	Unreliable
+	"Pickens County, SC"	"45077"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	54472	Unreliable
+	"Pickens County, SC"	"45077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	54087	Unreliable
+	"Richland County, SC"	"45079"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	94673	Unreliable
+	"Richland County, SC"	"45079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	95746	27.2
+	"Spartanburg County, SC"	"45083"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	15	110175	Unreliable
+	"Spartanburg County, SC"	"45083"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	29	105981	27.4
+	"York County, SC"	"45091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	85558	Unreliable
+	"Minnehaha County, SD"	"46099"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	76292	Unreliable
+	"Pennington County, SD"	"46103"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	43355	Unreliable
+	"Anderson County, TN"	"47001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	34144	Unreliable
+	"Blount County, TN"	"47009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	56853	Unreliable
+	"Bradley County, TN"	"47011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	44944	Unreliable
+	"Claiborne County, TN"	"47025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	15480	Unreliable
+	"Davidson County, TN"	"47037"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	213727	Unreliable
+	"Davidson County, TN"	"47037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	52	207152	25.1
+	"Hamblen County, TN"	"47063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	28351	Unreliable
+	"Hamilton County, TN"	"47065"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	125219	20.8
+	"Knox County, TN"	"47093"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	16	195051	Unreliable
+	"Knox County, TN"	"47093"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	55	185372	29.7
+	"Maury County, TN"	"47119"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	33707	Unreliable
+	"Montgomery County, TN"	"47125"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	64052	Unreliable
+	"Roane County, TN"	"47145"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	25577	Unreliable
+	"Rutherford County, TN"	"47149"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	25	107804	23.2
+	"Shelby County, TN"	"47157"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	20	206414	9.7
+	"Shelby County, TN"	"47157"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	18	227333	Unreliable
+	"Shelby County, TN"	"47157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	49	201501	24.3
+	"Sullivan County, TN"	"47163"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	73072	30.1
+	"Sumner County, TN"	"47165"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	71871	Unreliable
+	"Washington County, TN"	"47179"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	56218	35.6
+	"Williamson County, TN"	"47187"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	82091	25.6
+	"Wilson County, TN"	"47189"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	51167	Unreliable
+	"Anderson County, TX"	"48001"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	25670	Unreliable
+	"Angelina County, TX"	"48005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	35277	Unreliable
+	"Bell County, TX"	"48027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	109118	31.2
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	45	761175	5.9
+	"Bexar County, TX"	"48029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	123	733714	16.8
+	"Bowie County, TX"	"48037"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	34072	Unreliable
+	"Brazoria County, TX"	"48039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	127830	18.0
+	"Brazos County, TX"	"48041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	81165	Unreliable
+	"Cameron County, TX"	"48061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	191026	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	308861	Unreliable
+	"Collin County, TX"	"48085"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	48	301857	15.9
+	"Comal County, TX"	"48091"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	51215	Unreliable
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	55	821309	6.7
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	20	253984	7.9
+	"Dallas County, TX"	"48113"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	172	836275	20.6
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	13	277066	Unreliable
+	"Denton County, TX"	"48121"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	54	271243	19.9
+	"Ellis County, TX"	"48139"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	65821	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	389522	Unreliable
+	"El Paso County, TX"	"48141"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	362299	10.5
+	"Fort Bend County, TX"	"48157"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	172614	Unreliable
+	"Galveston County, TX"	"48167"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	30	118290	25.4
+	"Grayson County, TX"	"48181"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	53421	Unreliable
+	"Gregg County, TX"	"48183"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	45995	Unreliable
+	"Guadalupe County, TX"	"48187"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	58310	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"Black or African American"	"2054-5"	13	430169	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	86	1460081	5.9
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	12	137217	Unreliable
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	38	380734	10.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	285	1492519	19.1
+	"Hays County, TX"	"48209"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	72618	Unreliable
+	"Henderson County, TX"	"48213"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	35332	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	388909	Unreliable
+	"Hidalgo County, TX"	"48215"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	367795	7.1
+	"Jefferson County, TX"	"48245"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	78963	32.9
+	"Johnson County, TX"	"48251"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	26	71383	36.4
+	"Kaufman County, TX"	"48257"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	44388	Unreliable
+	"Kerr County, TX"	"48265"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	22961	Unreliable
+	"Lamar County, TX"	"48277"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	20171	Unreliable
+	"Lubbock County, TX"	"48303"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	34	121517	28.0
+	"McLennan County, TX"	"48309"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	93848	Unreliable
+	"Montgomery County, TX"	"48339"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	46	207696	22.1
+	"Nueces County, TX"	"48355"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	35	154707	22.6
+	"Parker County, TX"	"48367"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	56661	Unreliable
+	"Potter County, TX"	"48375"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	50679	Unreliable
+	"Randall County, TX"	"48381"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	55324	Unreliable
+	"San Patricio County, TX"	"48409"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	30820	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	84673	Unreliable
+	"Smith County, TX"	"48423"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	80951	25.9
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	37	712768	5.2
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	10	133024	Unreliable
+	"Tarrant County, TX"	"48439"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	131	697650	18.8
+	"Taylor County, TX"	"48441"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	56550	Unreliable
+	"Tom Green County, TX"	"48451"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	49907	Unreliable
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	21	417111	5.0
+	"Travis County, TX"	"48453"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	97	429162	22.6
+	"Van Zandt County, TX"	"48467"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	24655	Unreliable
+	"Victoria County, TX"	"48469"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	38503	Unreliable
+	"Webb County, TX"	"48479"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	119081	Unreliable
+	"Wichita County, TX"	"48485"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	56855	Unreliable
+	"Williamson County, TX"	"48491"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	33	180711	18.3
+	"Cache County, UT"	"49005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	53301	Unreliable
+	"Davis County, UT"	"49011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	36	145603	24.7
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	44	465749	9.4
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	145	470018	30.8
+	"Utah County, UT"	"49049"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	247185	15.4
+	"Washington County, UT"	"49053"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	22	65012	33.8
+	"Weber County, UT"	"49057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	109635	34.7
+	"Chittenden County, VT"	"50007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	71748	Unreliable
+	"Windham County, VT"	"50025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	21256	Unreliable
+	"Windsor County, VT"	"50027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	27144	Unreliable
+	"Bedford County, VA"	"51019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	31550	Unreliable
+	"Buchanan County, VA"	"51027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	11699	Unreliable
+	"Chesterfield County, VA"	"51041"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	112036	18.7
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	18	380632	Unreliable
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	52	379922	13.7
+	"Fauquier County, VA"	"51061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	28695	Unreliable
+	"Henrico County, VA"	"51087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	20	90773	22.0
+	"Henry County, VA"	"51089"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	15	20028	Unreliable
+	"Loudoun County, VA"	"51107"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	116758	Unreliable
+	"Prince William County, VA"	"51153"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	137378	16.7
+	"Roanoke County, VA"	"51161"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	40312	Unreliable
+	"Rockingham County, VA"	"51165"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	36099	Unreliable
+	"Spotsylvania County, VA"	"51177"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	19	48082	Unreliable
+	"Chesapeake city, VA"	"51550"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	71787	Unreliable
+	"Newport News city, VA"	"51700"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	47491	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	54309	Unreliable
+	"Norfolk city, VA"	"51710"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	66998	Unreliable
+	"Portsmouth city, VA"	"51740"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	20590	Unreliable
+	"Richmond city, VA"	"51760"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	45087	Unreliable
+	"Roanoke city, VA"	"51770"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	31439	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	47	154323	30.5
+	"Benton County, WA"	"53005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	81756	Unreliable
+	"Chelan County, WA"	"53007"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	34712	Unreliable
+	"Clallam County, WA"	"53009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	31932	Unreliable
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	194493	11.3
+	"Clark County, WA"	"53011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	52	189732	27.4
+	"Cowlitz County, WA"	"53015"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	47769	Unreliable
+	"Grays Harbor County, WA"	"53027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	33572	Unreliable
+	"Island County, WA"	"53029"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	35107	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	47	718683	6.5
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	153085	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	73028	Unreliable
+	"King County, WA"	"53033"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	150	722931	20.7
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	10	107327	Unreliable
+	"Kitsap County, WA"	"53035"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	28	111128	25.2
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	22	321706	6.8
+	"Pierce County, WA"	"53053"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	92	316607	29.1
+	"Skagit County, WA"	"53057"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	54081	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	19	299286	Unreliable
+	"Snohomish County, WA"	"53061"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	80	301243	26.6
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	11	220893	Unreliable
+	"Spokane County, WA"	"53063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	54	214615	25.2
+	"Thurston County, WA"	"53067"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	107513	19.5
+	"Whatcom County, WA"	"53073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	89971	Unreliable
+	"Yakima County, WA"	"53077"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	24	109613	21.9
+	"Berkeley County, WV"	"54003"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	46534	Unreliable
+	"Cabell County, WV"	"54011"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	43500	Unreliable
+	"Fayette County, WV"	"54019"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	12	21760	Unreliable
+	"Kanawha County, WV"	"54039"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	31	83714	37.0
+	"Mercer County, WV"	"54055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	13	27560	Unreliable
+	"Raleigh County, WV"	"54081"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	34870	Unreliable
+	"Wood County, WV"	"54107"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	40897	Unreliable
+	"Brown County, WI"	"55009"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	21	110917	18.9
+	"Chippewa County, WI"	"55017"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	10	30805	Unreliable
+	"Dane County, WI"	"55025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	38	212635	17.9
+	"Dodge County, WI"	"55027"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	43815	Unreliable
+	"Jefferson County, WI"	"55055"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	40620	Unreliable
+	"Kenosha County, WI"	"55059"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	73953	Unreliable
+	"La Crosse County, WI"	"55063"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	51896	Unreliable
+	"Marathon County, WI"	"55073"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	62377	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	24	322645	7.4
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"Black or African American"	"2054-5"	12	123870	Unreliable
+	"Milwaukee County, WI"	"55079"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	72	311060	23.1
+	"Outagamie County, WI"	"55087"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	14	82236	Unreliable
+	"Racine County, WI"	"55101"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	17	82817	Unreliable
+	"Rock County, WI"	"55105"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	72679	31.6
+	"Washington County, WI"	"55131"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	63646	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Female"	"F"	"White"	"2106-3"	14	189159	Unreliable
+	"Waukesha County, WI"	"55133"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	32	181797	17.6
+	"Winnebago County, WI"	"55139"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	23	78693	29.2
+	"Wood County, WI"	"55141"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	35433	Unreliable
+	"Campbell County, WY"	"56005"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	11	23529	Unreliable
+	"Laramie County, WY"	"56021"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	18	42914	Unreliable
+	"Natrona County, WY"	"56025"	"2010"	"2010"	"Male"	"M"	"White"	"2106-3"	16	36496	Unreliable
